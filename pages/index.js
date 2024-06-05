@@ -14,8 +14,9 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
-        <h1>SECOPSMAESTRO POC</h1>
+        
         </p>
+        <h1>SECOPSMAESTRO POC</h1>
       </main>
 
       <Footer />
